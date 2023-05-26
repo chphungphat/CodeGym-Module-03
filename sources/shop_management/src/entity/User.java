@@ -4,15 +4,15 @@ import lombok.Builder;
 
 @Builder
 public class User {
-    private int id;
+    private int user_id;
     private String name;
     private String email;
     private String phone;
     private String password;
     private Address address;
 
-    public User(int id, String name, String email, String phone, String password, Address address) {
-        this.id = id;
+    public User(int user_id, String name, String email, String phone, String password, Address address) {
+        this.user_id = user_id;
         this.name = name;
         this.email = email;
         this.phone = phone;
@@ -22,12 +22,12 @@ public class User {
 
     public User() {}
 
-    public int getId() {
-        return id;
+    public int getUser_id() {
+        return user_id;
     }
 
-    public void setId(int id) {
-        this.id = id;
+    public void setUser_id(int user_id) {
+        this.user_id = user_id;
     }
 
     public String getName() {
@@ -75,6 +75,6 @@ public class User {
         return String.format("%d %s\n" +
                 "Email: %s\n" +
                 "Phone numbers: %s\n" +
-                "Address: %s", id, name, email, phone, address.toString());
+                "Address: %s", user_id, name, email, phone, address.toString());
     }
 }

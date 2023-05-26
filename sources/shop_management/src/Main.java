@@ -1,26 +1,14 @@
 import entity.Address;
+import entity.Product;
 import entity.User;
-
-import javax.jws.soap.SOAPBinding;
 
 public class Main {
     public static void main(String[] args) {
-        Address newAddress = Address.builder()
-                .houseNumber("219")
-                .street("LLQ")
-                .ward("3")
-                .district("11")
-                .province("HCM")
-                .country("Vietnam")
+        Product newProduct = Product.builder()
+                .product_id(1)
+                .productName("Nintendo Switch")
+                .price(350000000)
                 .build();
-        User newUser = User.builder()
-                .id(1)
-                .name("CPP")
-                .email("chphungphat@gmail.com")
-                .phone("0867179650")
-                .password("112233")
-                .address(newAddress)
-                .build();
-        System.out.println(newUser.toString());
+        System.out.println(newProduct.toString());
     }
 }
