@@ -13,7 +13,14 @@ public class Main {
                 .province("HCM")
                 .country("Vietnam")
                 .build();
-        User.
-        System.out.println(newAddress.toString());
+        User newUser = User.builder()
+                .id(1)
+                .name("CPP")
+                .email("chphungphat@gmail.com")
+                .phone("0867179650")
+                .password("112233")
+                .address(newAddress)
+                .build();
+        System.out.println(newUser.toString());
     }
 }

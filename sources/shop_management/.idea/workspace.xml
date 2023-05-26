@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b3f0f7-4df2-46bb-a6dc-f784975524ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-manager/.idea/modules/user-manager.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-manager/.idea/modules/user-manager.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user-manager/user-manager.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../23-05.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Shoppe.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +59,7 @@
       <updated>1685086210090</updated>
       <workItem from="1685086211142" duration="1974000" />
       <workItem from="1685089067907" duration="97000" />
+      <workItem from="1685089190227" duration="338000" />
     </task>
     <servers />
   </component>
