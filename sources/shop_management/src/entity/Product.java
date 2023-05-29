@@ -2,23 +2,25 @@ package entity;
 
 import lombok.Builder;
 
+import java.text.DecimalFormat;
+
 @Builder
 public class Product {
+    private static final DecimalFormat formatter = new DecimalFormat("#,###");
+
     private int product_id;
     private String productName;
     private String description;
     private long price;
-    private Currency_VND stringPrice;
+    private int category_id;
 
-    public Product(int product_id, String productName, String description, long price) {
+    public Product(int product_id, String productName, String description, long price, int category_id) {
         this.product_id = product_id;
         this.productName = productName;
         this.description = description;
         this.price = price;
-        stringPrice = new Currency_VND(price);
+        this.category_id = category_id;
     }
-
-
 
     public Product() {}
 
@@ -52,21 +54,27 @@ public class Product {
 
     public void setPrice(long price) {
         this.price = price;
-        this.stringPrice.setValue(price);
     }
 
-    public Currency_VND getStringPrice() {
-        return stringPrice;
+    public String getStringPrice() {
+        return formatter.format(price);
     }
 
-    public void setStringPrice(Currency_VND stringPrice) {
-        this.stringPrice = stringPrice;
+    public int getCategory_id() {
+        return category_id;
     }
+
+    public void setCategory_id(int category_id) {
+        this.category_id = category_id;
+    }
+
+
 
     @Override
     public String toString() {
         return product_id + " " + productName +"\n"
-                + description + "\n"
-                + "Price: " + stringPrice.toString();
+                + "Description: " + description + "\n"
+                + "Price: " + getStringPrice() + "\n"
+                + "Category: ";
     }
 }
