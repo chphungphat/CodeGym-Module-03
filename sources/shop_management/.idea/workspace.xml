@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b3f0f7-4df2-46bb-a6dc-f784975524ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/AddressDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/ConnectionDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/IAddressDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/IUserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/AddressService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Currency_VND.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAO/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/UserDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +97,7 @@
       <workItem from="1685314285163" duration="4136000" />
       <workItem from="1685323063121" duration="7502000" />
       <workItem from="1685335942819" duration="773000" />
-      <workItem from="1685342318292" duration="2785000" />
+      <workItem from="1685342318292" duration="5319000" />
     </task>
     <servers />
   </component>

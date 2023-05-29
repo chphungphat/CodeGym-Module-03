@@ -24,7 +24,7 @@ public class UserDAO implements IUserDAO {
                                             "FROM User;";
     private final String SELECT_ADDRESS_IFO = "SELECT * FROM Address WHERE houseNumber = '219' AND street = ? AND ward = ? AND district = ? AND province = ? AND country = ? LIMIT 1;";
     private final String SELECT_USER_BY_EMAIL = "SELECT * FROM User WHERE email = ?;";
-    private final String SELECT_ADDRESS_LAST_ADD = "SELECT address_id FROM Address ORDER BY address_id DESC LIMIT 1";
+    private final String SELECT_ADDRESS_LAST_ADD = "SELECT address_id FROM Address ORDER BY address_id DESC LIMIT 1;";
     private final String DELETE_USER_SQL = "DELETE FROM User WHERE user_id = ?;";
     private final String UPDATE_USER_INFO_SQL = "UPDATE User SET name = ?, phone = ?, email = ? WHERE user_id = ?;";
     private final String UPDATE_USER_PASSWORD_SQL = "UPDATE User SET password = ? WHERE user_id = ?;";
