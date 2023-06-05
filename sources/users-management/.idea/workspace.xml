@@ -5,22 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="353012cd-5bdb-4388-a1df-7719e83f9a66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../BootstrapDemo/Demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson-08/BootstrapDemo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson-08/Demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootstrapDemo/.idea/BootstrapDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson-08/.idea/Lesson-08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Requirement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/user/User_Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/401.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/chart-area-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/chart-bar-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/chart-pie-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/datatables-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/img/error-404-monochrome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/password.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/tables.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootstrapDemo/Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../BootstrapDemo/Demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson-08/BootstrapDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson-08/BootstrapDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson-08/Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson-08/Demo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimaxStore/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/.idea/libraries/opencsv.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimaxStore/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ClimaxStore/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/ClimaxStore.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/builder/AddressBuilder.java" beforeDir="false" />
@@ -82,16 +102,42 @@
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/UserInfoView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/WishListView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../shop_management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shop_management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="users-management" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,23 +165,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.75" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.75" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/users" />
@@ -235,6 +288,14 @@
       <option name="presentableId" value="Default" />
       <updated>1685590394905</updated>
       <workItem from="1685590396281" duration="2659000" />
+      <workItem from="1685667256071" duration="3289000" />
+      <workItem from="1685672318539" duration="7000" />
+      <workItem from="1685695158290" duration="1897000" />
+      <workItem from="1685849438141" duration="708000" />
+      <workItem from="1685850642321" duration="271000" />
+      <workItem from="1685850926134" duration="103000" />
+      <workItem from="1685888762693" duration="991000" />
+      <workItem from="1685893178765" duration="17000" />
     </task>
     <servers />
   </component>
@@ -243,5 +304,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/dao/UserDAO.java</url>
+          <line>15</line>
+          <properties field="SELECT_ALL_USERS" class="dao.UserDAO" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
