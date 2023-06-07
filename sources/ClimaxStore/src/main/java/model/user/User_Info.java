@@ -1,4 +1,4 @@
-package model;
+package model.user;
 
 import lombok.*;
 
@@ -13,8 +13,8 @@ import java.util.Date;
 public class User_Info {
     private int userInfo_id;
     private int user_id;
-    private String lastName;
     private String firstName;
+    private String lastName;
     private Date birthday;
-    private int address_id;
+    private String gender;
 }
