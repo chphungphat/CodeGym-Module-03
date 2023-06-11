@@ -19,5 +19,5 @@ public class User {
     private String email;
     private String password;
     private Date created_date;
-    private int position_id;
+    private int position_id = 2;
 }

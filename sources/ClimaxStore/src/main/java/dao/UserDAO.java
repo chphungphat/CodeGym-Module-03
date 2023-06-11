@@ -24,12 +24,12 @@ public class UserDAO {
         return userDAO;
     }
 
-    private final String SELECT_USER_TO_LOGIN = "SELECT * " +
+    private final String SELECT_USER = "SELECT * " +
                                                 "FROM User " +
                                                 "WHERE user_name = ? OR email = ? OR phone = ?;";
     private final String SELECT_ALL_USERS = "SELECT * FROM User;";
-    private final String INSERT_USER = "INSERT INTO User (user_name, phone, email, password, created_date, position_id) " +
-                                            "VALUES (?, ?, ?, ?, ?, ?);";
+    private final String INSERT_USER = "INSERT INTO User (user_name, phone, email, password, created_date) " +
+                                            "VALUES (?, ?, ?, ?, ?);";
     private final String UPDATE_USER = "UPDATE User SET user_name = ?, email = ?, phone = ?, password = ?;";
 
 
@@ -79,7 +79,8 @@ public class UserDAO {
 //        }
 //    }
 
-    public void insertUser(User user) {
+    public boolean insertUser(User user) {
+        boolean check = false;
         try (Connection connection = Connector.getInstance().getConnection();
             PreparedStatement preparedStatement = connection.prepareStatement(INSERT_USER)) {
 
@@ -88,18 +89,20 @@ public class UserDAO {
             preparedStatement.setString(3, user.getEmail());
             preparedStatement.setString(4, BCrypt.hashpw(user.getPassword(), BCrypt.gensalt(HASH_ROUNDS)));
             preparedStatement.setDate(5, new java.sql.Date(user.getCreated_date().getTime()));
-            preparedStatement.setInt(6, user.getPosition_id());
-            preparedStatement.executeUpdate();
+            if (preparedStatement.executeUpdate() > 0) {
+                check = true;
+            };
 
         } catch (SQLException exception) {
             exception.printStackTrace();
         }
+        return check;
     }
 
-    public User checkLogin(String loginString, String loginPass) {
-        User user = null;
+    public List<User> selectUser(String loginString) {
+        List<User> users = new ArrayList<>();
         try (Connection connection = Connector.getInstance().getConnection();
-            PreparedStatement preparedStatement = connection.prepareStatement(SELECT_USER_TO_LOGIN)) {
+            PreparedStatement preparedStatement = connection.prepareStatement(SELECT_USER)) {
 
             preparedStatement.setString(1, loginString);
             preparedStatement.setString(2, loginString);
@@ -107,9 +110,8 @@ public class UserDAO {
             ResultSet rs = preparedStatement.executeQuery();
 
             if (rs.next()) {
-                String passDB = rs.getString("password");
-                if ((BCrypt.checkpw(loginPass, passDB)) && (!rs.getBoolean("isDeleted"))) {
-                    user = User.builder()
+                if (!rs.getBoolean("isDeleted")) {
+                    User user = User.builder()
                             .user_id(rs.getInt("user_id"))
                             .user_name(rs.getString("user_name"))
                             .phone(rs.getString("phone"))
@@ -118,12 +120,13 @@ public class UserDAO {
                             .created_date(rs.getDate("created_date"))
                             .position_id(rs.getInt("position_id"))
                             .build();
+                    users.add(user);
                 }
             }
         } catch (SQLException exception) {
             exception.printStackTrace();
         }
-        return user;
+        return users;
     }
 
 
