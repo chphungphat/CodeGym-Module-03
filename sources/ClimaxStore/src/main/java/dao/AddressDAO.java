@@ -18,6 +18,10 @@ public class AddressDAO {
     }
 
     private final String SELECT_ADDRESS = "SELECT * FROM Address WHERE user_id = ?;";
+    private final String UPDATE_ADDRESS = "UPDATE Address " +
+            "SET houseNumber = ?, street = ?, ward = ?, district = ?, province = ?, country = ? " +
+            "WHERE user_id = ?;";
+    private final String INSERT_NEW_ADDRESS = "INSERT INTO Address(user_id) VALUES (?);";
 
     public Address getAddress(User user) {
         Address newAddress = null;
@@ -32,7 +36,8 @@ public class AddressDAO {
                 int user_id = rs.getInt("user_id");
                 String houseNumber = rs.getString("houseNumber");
                 String street = rs.getString("street");
-                String ward = rs.getString("district");
+                String ward = rs.getString("ward");
+                String district = rs.getString("district");
                 String province = rs.getString("province");
                 String country = rs.getString("country");
                 newAddress = Address.builder()
@@ -41,6 +46,7 @@ public class AddressDAO {
                         .houseNumber(houseNumber)
                         .street(street)
                         .ward(ward)
+                        .district(district)
                         .province(province)
                         .country(country)
                         .build();
@@ -49,5 +55,33 @@ public class AddressDAO {
             exception.printStackTrace();
         }
         return newAddress;
+    }
+
+    public void updateAddress(Address address) {
+        try(Connection connection = Connector.getInstance().getConnection();
+            PreparedStatement preparedStatement = connection.prepareStatement(UPDATE_ADDRESS)) {
+
+            preparedStatement.setString(1, address.getHouseNumber());
+            preparedStatement.setString(2, address.getStreet());
+            preparedStatement.setString(3, address.getWard());
+            preparedStatement.setString(4, address.getDistrict());
+            preparedStatement.setString(5, address.getProvince());
+            preparedStatement.setString(6, address.getCountry());
+            preparedStatement.setInt(7, address.getUser_id());
+            preparedStatement.executeUpdate();
+        } catch (SQLException exception) {
+            exception.printStackTrace();
+        }
+    }
+
+    public void insertNewAddress(User user) {
+        try(Connection connection = Connector.getInstance().getConnection();
+            PreparedStatement preparedStatement = connection.prepareStatement(INSERT_NEW_ADDRESS)) {
+
+            preparedStatement.setInt(1, user.getUser_id());
+            preparedStatement.executeUpdate();
+        } catch (SQLException exception) {
+            exception.printStackTrace();
+        }
     }
 }

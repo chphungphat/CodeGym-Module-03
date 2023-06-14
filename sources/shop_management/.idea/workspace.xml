@@ -5,9 +5,107 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b3f0f7-4df2-46bb-a6dc-f784975524ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootstrapDemo/.idea/BootstrapDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lesson-08/.idea/Lesson-08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Requirement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/user/User_Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/model/User_Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/401.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/chart-area-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/chart-bar-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/chart-pie-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/datatables-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/img/error-404-monochrome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/password.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/tables.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../users-management/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../users-management/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../users-management/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootstrapDemo/Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../BootstrapDemo/Demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson-08/BootstrapDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson-08/BootstrapDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson-08/Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson-08/Demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimaxStore/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/.idea/libraries/opencsv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimaxStore/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/ClimaxStore.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/builder/AddressBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/builder/CustomerBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/builder/GameBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/builder/IAddressBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/builder/ICustomerBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/builder/IGameBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/data/cart.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/data/game.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/data/library.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/data/receipt.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/data/review.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/data/user.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Receipt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/AdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/CartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/FundService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/GameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/InputService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/LibraryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/ReceiptService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/ReviewService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/file_service/CartFileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/file_service/GameFileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/file_service/LibraryFileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/file_service/ReceiptFileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/file_service/ReviewFileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/file_service/UserFileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/search/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/search/SearchByDeveloper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/search/SearchByGameTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/search/SearchByName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/search/SearchByPrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/search/SearchFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/AddFundView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/AdminView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/BoughtGameView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/CartView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/CustomerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/GameProductView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/GameShopView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/GameView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/LibraryView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/LoginView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/RegisterView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/SearchGameView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/StartUpView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/UpdateInfoView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/UserInfoView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/WishListView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users-management/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../users-management/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../users-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../users-management/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../users-management/src/main/java/dao/UserDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +196,9 @@
       <workItem from="1685323063121" duration="7502000" />
       <workItem from="1685335942819" duration="773000" />
       <workItem from="1685342318292" duration="5319000" />
+      <workItem from="1685352723612" duration="11000" />
+      <workItem from="1685417931911" duration="16000" />
+      <workItem from="1685920928908" duration="11000" />
     </task>
     <servers />
   </component>

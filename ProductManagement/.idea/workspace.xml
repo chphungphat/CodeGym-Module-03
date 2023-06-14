@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ProductManagement:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6ad6cb3-1bb9-4f09-95c5-d4cb04e2a1f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/controller/ProductPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/dao/Connector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/dao/ShoppingCartDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/model/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ProductPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/Connector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ShoppingCartDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/controller/CartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/controller/ProfileServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/dao/CartDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/dao/GameDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/model/CartLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/service/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/navbar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BootstrapDemo/css/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BootstrapDemo/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BootstrapDemo/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BootstrapDemo/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BootstrapDemo/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-08/BootstrapDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-08/BootstrapDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson-08/Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson-08/Demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/.idea/dataSources/ab44c7e7-5f6a-49ca-b025-aa1d5c0809b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/.idea/dataSources/ab44c7e7-5f6a-49ca-b025-aa1d5c0809b2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/controller/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/controller/HomeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/controller/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/controller/RegisterServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/controller/TestServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/dao/AddressDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/dao/AddressDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/dao/User_InfoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/dao/User_InfoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/model/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/model/product/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/model/product/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/model/product/Game_Detail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/model/product/Game_Requirement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/java/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/401.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/500.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/about.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/default-skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/icomoon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/jquery.fancybox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/jquery.mCustomScrollbar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/meanmenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/nice-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/banner-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/fb-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/gamepad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/img-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/img-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/img-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/img-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/instagram-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/linkdin-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/quote-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/search-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/twitter-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/images/video-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/index (copy).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/jquery-3.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/modernizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/js/slider-setting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/remot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/html/video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/profile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/ClimaxStore/src/main/webapp/profile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/Connector/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/Connector/Connector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/model/User_Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/model/User_Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/java/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/401.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/401.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/404.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/500.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/500.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/password.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/password.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/tables.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/case_study_m3/src/main/webapp/tables.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/lesson-10/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/lesson-10/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/connection/JdbcConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/connection/JdbcConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/dao/RoleDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/dao/RoleDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/lesson-10/src/main/java/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/lesson-10/src/main/webapp/view/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/lesson-10/src/main/webapp/view/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/shop_management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/shop_management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/users-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/users-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sources/users-management/src/main/webapp/user/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sources/users-management/src/main/webapp/user/edit.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2R8BwuYE5edcsqCbsVcc3gxt0v4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.customizations",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.75" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.75" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/home" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ProductManagement:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="1d3a1496-45d4-4c07-ba03-6d25ccbdbfee" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="45821" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ProductManagement:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6ad6cb3-1bb9-4f09-95c5-d4cb04e2a1f8" name="Changes" comment="" />
+      <created>1686622069681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686622069681</updated>
+      <workItem from="1686622070795" duration="4840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -91,7 +91,9 @@ public class UserDAO {
             preparedStatement.setDate(5, new java.sql.Date(user.getCreated_date().getTime()));
             if (preparedStatement.executeUpdate() > 0) {
                 check = true;
-            };
+                User_InfoDAO.getInstance().insertNewUserInfo(user);
+                AddressDAO.getInstance().insertNewAddress(user);
+            }
 
         } catch (SQLException exception) {
             exception.printStackTrace();
@@ -127,11 +129,5 @@ public class UserDAO {
             exception.printStackTrace();
         }
         return users;
-    }
-
-
-
-    public static void main(String[] args) {
-
     }
 }

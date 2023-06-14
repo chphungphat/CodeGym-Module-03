@@ -13,7 +13,7 @@
     </head>
     <body class="sb-nav-fixed">
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
-            <a class="navbar-brand" href="index.html">Customer Manager</a>
+            <a class="navbar-brand" href="index.jsp">Customer Manager</a>
             <button class="btn btn-link btn-sm order-1 order-lg-0" id="sidebarToggle" href="#"><i class="fas fa-bars"></i></button>
             <!-- Navbar Search-->
             <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0">
@@ -32,7 +32,7 @@
                         <a class="dropdown-item" href="#">Settings</a>
                         <a class="dropdown-item" href="#">Activities</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="login.html">Logout</a>
+                        <a class="dropdown-item" href="login.jsp">Logout</a>
                     </div>
                 </li>
             </ul>
@@ -42,11 +42,11 @@
                 <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
                     <div class="sb-sidenav-menu">
                         <div class="nav">
-                            <a class="nav-link" href="tables.html">
+                            <a class="nav-link" href="tables.jsp">
                                 <div class="sb-nav-link-icon"><i class="fas fa-user-alt"></i></div>
                                 Quản lý khách hàng
                             </a>
-                            <a class="nav-link" href="tables.html">
+                            <a class="nav-link" href="tables.jsp">
                                 <div class="sb-nav-link-icon"><i class="fas fa-user-shield"></i></div>
                                 Quản lý loại quyền
                             </a>

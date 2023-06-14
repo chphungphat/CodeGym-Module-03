@@ -10,96 +10,151 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4904ccb5-609b-4bc7-9733-a971de71af11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../BootstrapDemo/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../BootstrapDemo/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/TestServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/gamer.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/default-skin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/icomoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/jquery.fancybox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/meanmenu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/nice-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/banner-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/fb-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/gamepad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/img-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/img-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/img-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/img-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/instagram-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/linkdin-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/quote-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/search-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/twitter-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/images/video-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/index (copy).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/jquery-3.0.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/modernizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/js/slider-setting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/remot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/html/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/gamepad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/login.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BootstrapDemo/Demo.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/controller/ProductPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/controller/ShoppingCartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/dao/Connector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/dao/ShoppingCartDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/model/CartProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/model/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/java/service/ShoppingCartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/webapp/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JWBD-EXAM_C0223H1_ChungPhungPhat/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/src/main/java/controller/ProductPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/src/main/java/dao/Connector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/src/main/java/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/src/main/java/dao/ShoppingCartDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/src/main/java/model/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProductManagement/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/CartServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ProfileServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/CartDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/GameDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/CartLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/navbar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootstrapDemo/css/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootstrapDemo/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../BootstrapDemo/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BootstrapDemo/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../BootstrapDemo/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson-08/BootstrapDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson-08/BootstrapDemo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson-08/Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson-08/Demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ab44c7e7-5f6a-49ca-b025-aa1d5c0809b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ab44c7e7-5f6a-49ca-b025-aa1d5c0809b2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/controller/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/HomeServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/RegisterServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/TestServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/AddressDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/AddressDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/User_InfoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/User_InfoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/product/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/product/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/product/Game_Detail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/product/Game_Requirement.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/401.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/500.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/about.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/default-skin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/icomoon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/jquery.fancybox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/jquery.mCustomScrollbar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/meanmenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/nice-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/banner-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/fb-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/gamepad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/img-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/img-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/img-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/img-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/instagram-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/linkdin-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/quote-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/search-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/twitter-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/images/video-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/index (copy).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/jquery-3.0.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/jquery.mCustomScrollbar.concat.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/modernizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/js/slider-setting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/remot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/html/video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/profile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/profile.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/java/Connector/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/Connector/Connector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/java/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/dao/UserDAO.java" afterDir="false" />
@@ -173,7 +228,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/reyon/CodeGym/CodeGym-Module-03/sources/ClimaxStore/src/main/webapp/home.jsp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/reyon/CodeGym/CodeGym-Module-03/sources/ClimaxStore/src/main/webapp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -192,6 +247,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/java/model/user" />
@@ -311,6 +369,12 @@
         </option>
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserService" />
+        <item itemvalue="Application.UserDAO" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -351,7 +415,17 @@
       <workItem from="1686294702564" duration="718000" />
       <workItem from="1686361627235" duration="819000" />
       <workItem from="1686382444895" duration="3443000" />
-      <workItem from="1686435817730" duration="4924000" />
+      <workItem from="1686435817730" duration="7890000" />
+      <workItem from="1686469740242" duration="2016000" />
+      <workItem from="1686486115281" duration="34159000" />
+      <workItem from="1686547637071" duration="10747000" />
+      <workItem from="1686621951877" duration="131000" />
+      <workItem from="1686625008056" duration="32000" />
+      <workItem from="1686625812782" duration="109000" />
+      <workItem from="1686626159655" duration="199000" />
+      <workItem from="1686705596082" duration="68000" />
+      <workItem from="1686705673686" duration="39000" />
+      <workItem from="1686705727108" duration="136000" />
     </task>
     <servers />
   </component>
@@ -360,5 +434,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/ProfileServlet.java</url>
+          <line>35</line>
+          <properties class="controller.ProfileServlet">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -16,8 +16,8 @@ public class Game {
     private String gameName;
     private long price;
     private Date releaseDate;
-    private List<Integer> categories_id;
+    private String gameDescription;
+    private String gameImage;
+    private int category_id;
     private int developer_id;
-    private int gameDetail_id;
-    private int gameRequire_id;
 }

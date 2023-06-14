@@ -5,34 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="353012cd-5bdb-4388-a1df-7719e83f9a66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../BootstrapDemo/.idea/BootstrapDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson-08/.idea/Lesson-08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Detail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Requirement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/user/User_Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/controller/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/401.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/404.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/500.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/chart-area-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/chart-bar-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/chart-pie-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/demo/datatables-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/assets/img/error-404-monochrome.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/password.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/tables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/Connector/Connector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-10/src/main/java/dao/RoleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson-10/src/main/java/fillter/AuthFillter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/user/edit.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../BootstrapDemo/Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../BootstrapDemo/Demo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson-08/BootstrapDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson-08/BootstrapDemo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson-08/Demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson-08/Demo.html" afterDir="false" />
@@ -64,6 +41,11 @@
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Receipt.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/Review.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Requirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/product/Game_Requirement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/user/User_Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimaxStore/src/main/java/model/user/User_Info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/AdminService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/CartService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/service/FundService.java" beforeDir="false" />
@@ -101,10 +83,27 @@
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/UpdateInfoView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/UserInfoView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClimaxStore/src/view/WishListView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/java/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/java/model/User_Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/java/model/User_Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/401.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/401.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/404.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/500.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/500.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/password.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/password.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/tables.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study_m3/src/main/webapp/tables.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-10/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-10/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-10/src/main/java/connection/JdbcConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-10/src/main/java/connection/JdbcConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-10/src/main/java/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-10/src/main/java/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-10/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-10/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-10/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-10/src/main/java/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-10/src/main/java/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-10/src/main/java/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-10/src/main/webapp/view/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-10/src/main/webapp/view/user/list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shop_management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shop_management/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/UserDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +172,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/reyon/CodeGym/CodeGym-Module-03/sources/users-management&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -296,6 +296,9 @@
       <workItem from="1685850926134" duration="103000" />
       <workItem from="1685888762693" duration="991000" />
       <workItem from="1685893178765" duration="17000" />
+      <workItem from="1685949879210" duration="1548000" />
+      <workItem from="1686014834049" duration="685000" />
+      <workItem from="1686019504465" duration="102000" />
     </task>
     <servers />
   </component>
@@ -313,6 +316,15 @@
           <line>15</line>
           <properties field="SELECT_ALL_USERS" class="dao.UserDAO" />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/UserServlet.java</url>
+          <line>106</line>
+          <properties class="controller.UserServlet" method="updateUser">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

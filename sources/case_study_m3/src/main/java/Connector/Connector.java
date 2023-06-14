@@ -1,3 +1,5 @@
+package Connector;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -15,7 +17,7 @@ public class Connector {
     private final String jdbcUsername = "root";
     private final String jdbcPassword = "Qwert!2345";
 
-    private Connection getConnection() {
+    public Connection getConnection() {
         Connection connection = null;
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");

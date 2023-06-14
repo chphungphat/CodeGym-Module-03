@@ -14,33 +14,28 @@ import java.sql.SQLException;
 import java.util.List;
 
 @WebServlet(name = "UserServlet", urlPatterns = "/users")
-public class UserServlet extends HttpServlet {
-    private static final long serialVersionUID = 1L;
-    private UserDAO userDAO;
+public class UserController extends HttpServlet {
+    private UserDAO userDAO = UserDAO.getInstance();
 
-    public void init() {
-        userDAO = new UserDAO();
-    }
-
-    protected void doPost(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException {
-        String action = request.getParameter("action");
-        if (action == null) {
-            action = "";
-        }
-        try {
-            switch (action) {
-                case "create":
-                    insertUser(request, response);
-                    break;
-                case "edit":
-                    updateUser(request, response);
-                    break;
-            }
-        } catch (SQLException ex) {
-            throw new ServletException(ex);
-        }
-    }
+//    protected void doPost(HttpServletRequest request, HttpServletResponse response)
+//            throws ServletException, IOException {
+//        String action = request.getParameter("action");
+//        if (action == null) {
+//            action = "";
+//        }
+//        try {
+//            switch (action) {
+//                case "create":
+//                    insertUser(request, response);
+//                    break;
+//                case "edit":
+//                    updateUser(request, response);
+//                    break;
+//            }
+//        } catch (SQLException ex) {
+//            throw new ServletException(ex);
+//        }
+//    }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {

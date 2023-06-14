@@ -25,6 +25,12 @@ public class UserService {
         return userService;
     }
 
+    private final String NAME_REGEX = "^[a-zA-Z\\s]+";
+    private final String EMAIL_REGEX = "[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?";
+    private final String PHONE_REGEX = "^\\d{10}$";
+    private final String DATE_REGEX = "^(0[1-9]|[12][0-9]|[3][01])/(0[1-9]|1[012])/\\d{4}$";
+    private final String PASSWORD_REGEX = "^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#&()–[{}]:;',?/*~$^+=<>]).{8,20}$";
+
     private User currentUser;
     private User_Info currentUser_Info;
     private Address currentAddress;

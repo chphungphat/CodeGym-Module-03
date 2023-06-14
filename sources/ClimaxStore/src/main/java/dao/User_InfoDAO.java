@@ -7,7 +7,9 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.logging.SimpleFormatter;
 
 public class User_InfoDAO {
     private static final User_InfoDAO user_InfoDAO = new User_InfoDAO();
@@ -19,6 +21,10 @@ public class User_InfoDAO {
     }
 
     private final String SELECT_USER_INFO = "SELECT * FROM User_Info WHERE user_id = ?;";
+    private final String UPDATE_USER_INFO = "UPDATE User_Info " +
+            "SET firstName = ?, lastName = ?, birthday = ?, gender = ? " +
+            "WHERE user_id = ?;";
+    private final String INSERT_NEW_USER_INFO = "INSERT INTO User_Info(user_id) VALUES (?);";
 
     public User_Info getUserInfo(User user) {
         User_Info newUser_info = null;
@@ -49,5 +55,32 @@ public class User_InfoDAO {
             exception.printStackTrace();
         }
         return newUser_info;
+    }
+
+    public void updateUserInfo(User_Info userInfo) {
+        try(Connection connection = Connector.getInstance().getConnection();
+            PreparedStatement preparedStatement = connection.prepareStatement(UPDATE_USER_INFO)) {
+
+
+            preparedStatement.setString(1, userInfo.getFirstName());
+            preparedStatement.setString(2, userInfo.getLastName());
+            preparedStatement.setDate(3, new java.sql.Date(userInfo.getBirthday().getTime()));
+            preparedStatement.setString(4, userInfo.getGender());
+            preparedStatement.setInt(5, userInfo.getUser_id());
+            preparedStatement.executeUpdate();
+        } catch (SQLException exception) {
+            exception.printStackTrace();
+        }
+    }
+
+    public void insertNewUserInfo(User user) {
+        try(Connection connection = Connector.getInstance().getConnection();
+            PreparedStatement preparedStatement = connection.prepareStatement(INSERT_NEW_USER_INFO)) {
+
+            preparedStatement.setInt(1, user.getUser_id());
+            preparedStatement.executeUpdate();
+        } catch (SQLException exception) {
+            exception.printStackTrace();
+        }
     }
 }

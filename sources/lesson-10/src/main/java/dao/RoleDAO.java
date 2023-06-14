@@ -1,2 +1,4 @@
-package dao;public class RoleDAO {
+package dao;
+
+public class RoleDAO {
 }
